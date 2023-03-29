@@ -1,0 +1,10 @@
+{
+  "Name": "More Treasure Room Trees",
+  "Author": "MathNerd",
+  "Version": "1.0.0",
+  "Description": "Treasure rooms in Skull Cavern can give any type of tree, even ones from mods.",
+  "UniqueID": "MathNerd.MoreTreasureRoomTrees",
+  "EntryDll": "MoreTreasureRoomTrees.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
